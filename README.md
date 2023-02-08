@@ -16,4 +16,14 @@ Here are some ideas to get you started:
 -->
 ![](https://github-readme-stats.vercel.app/api?username=guozhigq&show_icons=true)
 <!--START_SECTION:waka-->
+
+```text
+Dart         43 hrs 10 mins  ████████████████████▓░░░░   82.21 %
+Vue.js       2 hrs 51 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.45 %
+HTML         2 hrs 4 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 %
+TypeScript   1 hr 22 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.62 %
+YAML         1 hr 13 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.32 %
+Markdown     45 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 %
+```
+
 <!--END_SECTION:waka-->
