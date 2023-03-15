@@ -18,12 +18,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Dart         57 hrs 42 mins  ████████████████████▒░░░░   81.25 %
-YAML         5 hrs 51 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 %
-Markdown     2 hrs 17 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.23 %
-Groovy       2 hrs 11 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.09 %
-Properties   46 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 %
-Git Config   46 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 %
+Dart         51 hrs 52 mins  ████████████████████░░░░░   79.53 %
+YAML         6 hrs 9 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.44 %
+Markdown     2 hrs 17 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 %
+Groovy       2 hrs 11 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 %
+Properties   46 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
+Git Config   46 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
 ```
 
 <!--END_SECTION:waka-->
