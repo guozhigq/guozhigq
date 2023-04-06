@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Dart         40 hrs 58 mins  ██████████████████████░░░   88.30 %
-Markdown     2 hrs 53 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.21 %
-YAML         2 hrs 16 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.90 %
-JavaScript   5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
+Dart         40 hrs 24 mins  ██████████████████████░░░   88.46 %
+Markdown     2 hrs 53 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.31 %
+YAML         2 hrs 9 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.72 %
+JavaScript   5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
 Kotlin       3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
 Other        3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
 ```
