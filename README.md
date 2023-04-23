@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Dart          62 hrs 5 mins   ████████████████████████░   95.64 %
-YAML          2 hrs 14 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 %
+Dart          62 hrs 43 mins  ████████████████████████░   95.53 %
+YAML          2 hrs 20 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 %
 XML           15 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
 JSON          11 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
 Markdown      4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
