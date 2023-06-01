@@ -26,11 +26,11 @@ Hi, I'm guozhigq, a web developer and sometime develop some client applications.
 <!--START_SECTION:waka-->
 
 ```text
-Dart         5 hrs 35 mins   █████████████▒░░░░░░░░░░░   53.19 %
-Markdown     2 hrs 31 mins   ██████░░░░░░░░░░░░░░░░░░░   23.96 %
-JavaScript   1 hr 8 mins     ██▓░░░░░░░░░░░░░░░░░░░░░░   10.86 %
-YAML         47 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 %
-HTML         10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 %
+Dart         8 hrs 28 mins   ███████████████████▓░░░░░   78.75 %
+YAML         52 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 %
+Markdown     26 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 %
+JavaScript   20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.25 %
+Groovy       11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.81 %
 ```
 
 <!--END_SECTION:waka-->
