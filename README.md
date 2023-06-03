@@ -25,12 +25,12 @@ Hi, I'm guozhigq, a web developer and sometime develop some client applications.
 ![](https://github-readme-stats.vercel.app/api?username=guozhigq&show_icons=true)
 <!--START_SECTION:waka-->
 
-```text
-Dart         9 hrs 30 mins   ████████████████████░░░░░   79.51 %
-YAML         54 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 %
-JavaScript   32 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 %
-Markdown     20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.90 %
-Groovy       11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 %
+```txt
+Dart         7 hrs 50 mins   ███████████████████░░░░░░   76.08 %
+YAML         55 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.03 %
+JavaScript   32 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.24 %
+Markdown     20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.33 %
+Groovy       11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.89 %
 ```
 
 <!--END_SECTION:waka-->
